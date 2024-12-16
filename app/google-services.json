@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323106688015",
+    "project_id": "culture-motel-g",
+    "storage_bucket": "culture-motel-g.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323106688015:android:9dc029990d0be09d72a77a",
+        "android_client_info": {
+          "package_name": "com.example.culturemotelg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ_T6hpgQ9a34tm3_G7GBk3XGa5MIS2fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
